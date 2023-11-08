@@ -1,5 +1,5 @@
-# Logger Module
-*version 1.0.0 (proof of concept)*
+# Job Worker Logger
+*version 1.0.0*
 
 ---
-Mockup of the logger module (common component)
+Simple logger module

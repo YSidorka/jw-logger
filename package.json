@@ -1,11 +1,8 @@
 {
-  "name": "jw-logger",
+  "name": "@jw/logger",
   "version": "1.0.0",
-  "description": "mockup of the logger module",
+  "description": "simple logger module for job workers",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/YSidorka/jw-logger.git"
